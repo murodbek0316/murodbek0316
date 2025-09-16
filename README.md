@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Komilov Murodbek
 
-<!--
-**murodbek0316/murodbek0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📚 Student | Frontend Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Objective
+Aspiring frontend developer with a passion for creating clean and responsive websites using **HTML** and **CSS**. Eager to grow skills and contribute to exciting projects.
+
+---
+
+### 🎓 Education
+- Currently a high school student
+
+---
+
+### 💻 Technical Skills
+- HTML  
+- CSS  
+
+---
+
+### 🚀 Projects
+- *(Add your GitHub projects here with short descriptions)*  
+  Example:  
+  - [Portfolio Website](https://github.com/yourusername/portfolio) - A personal portfolio website built with HTML and CSS showcasing my projects.
+
+---
+
+### 🌐 Languages
+- Uzbek (Native)  
+- English (Basic/Intermediate — adjust if needed)
+
+---
+
+### 📫 Contact
+- 📧 Email: [komilovmurodbek366@gmail.com](mailto:komilovmurodbek366@gmail.com)  
+- 🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
